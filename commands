@@ -1,0 +1,3 @@
+ javac -cp lib/adx-*.jar LosCaparos.java
+jar cvf lib/LosCaparos.jar LosCaparos\$CampaignData.class LosCaparos.class
+
